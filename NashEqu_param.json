@@ -1,0 +1,17 @@
+{
+  "HEIGHT": 11,
+  "WIDTH": 11,
+  "A2RANGE": [4, 0, 5, 10],
+  "INITIAL": [0, 5, 6, 7],
+  "GOALS": [[9, 5, 9, 5]],
+  "OBSTACLES": [],
+  "ACTIONS": [[0, 1], [0, -1], [-1, 0], [1, 0]],
+  "TRANSITION_PROB1": 0.0,
+  "TRANSITION_PROB2": 0.20,
+  "REWARD": 1,
+  "GAMMA": 0.85,
+  "THRESHOLD": 0.00000001,
+  "DISTANCETHRESHOLD": 1,
+  "REACHGOALREWARD": 100,
+  "CATCHREWARD": 100
+}
